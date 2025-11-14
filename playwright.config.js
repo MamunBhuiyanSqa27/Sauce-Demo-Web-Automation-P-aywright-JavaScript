@@ -7,7 +7,7 @@ export default defineConfig({
   use: {
     baseURL:'https://www.saucedemo.com',
     headless: false,
-    viewport: { width: 1280, height: 720},
+    viewport: null,
     actionTimeout: 10000,
     navigationTimeout: 60000,
     video: 'retain-on-failure',
