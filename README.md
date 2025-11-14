@@ -8,7 +8,7 @@ Install the dependencies:
 2. npx playwright install chromium.
 
 Run test:
-npm test
+ npm test
 
 
 
